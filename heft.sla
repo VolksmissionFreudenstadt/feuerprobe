@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="28" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="de" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="0" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="2" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="2" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Überschrift Lieder" ALIGN="0" DIRECTION="0" LINESPMode="2" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" CPARENT="Überschrift Lieder"/>
+        <STYLE NAME="Kleingedrucktes Lieder" ALIGN="0" DIRECTION="0" LINESPMode="1" LINESP="15" INDENT="14.1732283464567" RMARGIN="0" FIRST="0" VOR="1" NACH="8" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" CPARENT="Kleingedrucktes Lieder" FSHADE="70"/>
+        <STYLE NAME="Liednummer" ALIGN="1" DIRECTION="0" LINESPMode="2" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" CPARENT="Überschrift Lieder" FONTSIZE="44" FCOLOR="White"/>
+        <STYLE NAME="Liedtext" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="13" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Inhaltsverzeichnis 1" ALIGN="0" DIRECTION="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="24" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Ringbearer Medium" FONTSIZE="24" FONTFEATURES="-clig,-liga">
+            <Tabs Type="1" Pos="354.330708661417" Fill="."/>
+        </STYLE>
+        <STYLE NAME="Inhaltsverzeichnis 2" ALIGN="0" DIRECTION="0" LINESPMode="2" LINESP="15" INDENT="28.3464566929134" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Open Sans Regular" FONTFEATURES="-clig">
+            <Tabs Type="1" Pos="354.330708661417" Fill="."/>
+        </STYLE>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Open Sans Regular" FONTSIZE="11" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <CHARSTYLE CNAME="Überschrift Lieder" FONT="Ringbearer Medium" FONTSIZE="24" FONTFEATURES="-clig,-liga" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <CHARSTYLE CNAME="Kleingedrucktes Lieder" FONT="Open Sans Regular" FONTSIZE="7" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="VMFDS Kopierer" filename="D:/dev/pub/sc17/heft.ps" separationName="Alle" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="1" PageLayout="0" openAction="">
+            <Fonts Name="Open Sans Bold"/>
+            <Fonts Name="Open Sans Regular"/>
+            <Fonts Name="Ringbearer Medium"/>
+            <Subset Name="MarigoldWild MarigoldWild"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="27" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="Normal links" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="1" NAM="Normal rechts" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="0" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="672.284409448819" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="1" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="672.284409448819" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="2" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1324.56755905512" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="3" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="1324.56755905512" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="4" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1976.85070866142" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="5" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="1976.85070866142" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="6" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2629.13385826772" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="7" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="2629.13385826772" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="8" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3281.41700787401" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="9" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="3281.41700787401" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="10" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3933.70015748031" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="11" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="3933.70015748031" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="12" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4585.98330708661" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="13" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="4585.98330708661" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="14" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5238.26645669291" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="15" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="5238.26645669291" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="16" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5890.54960629921" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="17" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="5890.54960629921" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="18" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6542.83275590551" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="19" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="6542.83275590551" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="20" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7195.11590551181" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="21" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="7195.11590551181" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="22" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7847.39905511811" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="23" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="7847.39905511811" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="24" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8499.68220472441" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="25" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="536.536062992126" PAGEYPOS="8499.68220472441" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="26" NAM="" MNAM="Normal rechts" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9151.96535433071" PAGEWIDTH="436.535433070866" PAGEHEIGHT="612.283464566929" BORDERLEFT="36.8503937007874" BORDERRIGHT="36.8503937007874" BORDERTOP="36.8503937007874" BORDERBOTTOM="36.8503937007874" NUM="27" NAM="" MNAM="Normal links" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="4585.98330708661" OwnPage="13" ItemID="134713424" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.161064" LOCALSCY="0.161064" LOCALX="-1724.75087909496" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/sky-on-fire-2147351.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1409.60692913386" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="3933.70015748031" OwnPage="11" ItemID="132491168" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.182976" LOCALSCY="0.182976" LOCALX="-3005.42836132892" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/cave-1835825.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1392.59905511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="3281.41700787402" OwnPage="9" ItemID="134716176" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.4084" LOCALSCY="0.4084" LOCALX="-1124.41870329382" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/desert-279862.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1375.59118110236" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="2629.13385826772" OwnPage="7" ItemID="135225408" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.4583" LOCALSCY="0.4583" LOCALX="-482.44024046416" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/lightning-880154.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1358.58330708662" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1976.85070866142" OwnPage="5" ItemID="135209056" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.180216" LOCALSCY="0.180216" LOCALX="-928.020233986932" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/bonfire-1407668.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1341.57543307087" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1324.56755905512" OwnPage="3" ItemID="6332944" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.266712" LOCALSCY="0.266712" LOCALX="-297.587205450664" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/abstract-1239145.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1324.56755905512" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="573.386456692913" YPOS="8728.69952755906" OwnPage="26" ItemID="87371520" PTYPE="4" WIDTH="345.826771653543" HEIGHT="329.407874015749" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.827 0 L345.827 329.408 L0 329.408 L0 0 Z" copath="M0 0 L345.827 0 L345.827 329.408 L0 329.408 L0 0 Z" ImageRes="2" gXpos="573.386456692913" gYpos="8728.69952755906" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Sommercamp 2017 der Royal Rangers "/>
+                <breakline/>
+                <ITEXT CH="Bietigheim, Horb &amp; Freudenstadt"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Open Sans Bold" CH="Andachtsheft"/>
+                <breakline/>
+                <ITEXT CH="Pastor Christoph Fischer, Volksmission Freudenstadt"/>
+                <breakline/>
+                <ITEXT CH="Tel. (0 74 41) 71 73, christoph.fischer@volksmission.de"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Open Sans Bold" CH="Druck"/>
+                <para/>
+                <ITEXT CH="WIRmachenDRUCK GmbH, Backnang"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Open Sans Bold" FONTSIZE="11" CH="Bildnachweise:"/>
+                <breakline/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="7" CH="Umschlagseiten: pixabay / Stones [1]. "/>
+                <para/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="7" CH="Seite 4: pixabay / Meditations [1]"/>
+                <ITEXT FONTSIZE="7" CH=". "/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Seite 6: pixabay / Kilodk [1]."/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Seite 8: pixabay / skeeze [1]."/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Seite 10: pixabay / _Marion [1]."/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Seite 12: pixabay / Pexels [1]."/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Seite 14: pixabay / dimitrisvetsikas1969 [1]."/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Seite 16: pixabay / andreas160578 [1]."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Soweit nicht anders angegeben stehen alle verwendeten Bilder unter der CC0 Public Domain Lizenz."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536.536062992126" YPOS="20.0012598425197" OwnPage="0" ItemID="135186432" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.1872" LOCALSCY="0.1872" LOCALX="-3270.74500302847" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/fire-227291.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="536.536062992126" gYpos="20.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="9151.9653543307" OwnPage="27" ItemID="135189184" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.1872" LOCALSCY="0.1872" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/fire-227291.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="536.536062992126" gYpos="3933.69763779528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="564.882519685039" YPOS="48.3477165354331" OwnPage="0" ItemID="125640784" PTYPE="2" WIDTH="113.385826771654" HEIGHT="113.385826771654" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.141732283464567" LOCALSCY="0.141732283464567" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../Bilder/CI/Royal Rangers/buero-Emblem_farb.png" IRENDER="0" EMBEDDED="0" path="M0 0 L113.386 0 L113.386 113.386 L0 113.386 L0 0 Z" copath="M0 0 L113.386 0 L113.386 113.386 L0 113.386 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="48.3477165354331" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="594.99962992126" YPOS="492.000259842519" OwnPage="0" ItemID="124100672" PTYPE="4" WIDTH="364.725409448819" HEIGHT="111.938007874016" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L364.725 0 L364.725 111.938 L0 111.938 L0 0 Z" copath="M0 0 L364.725 0 L364.725 111.938 L0 111.938 L0 0 Z" ImageRes="2" gXpos="594.99962992126" gYpos="492.000259842519" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="60" CH="Feuerprobe"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="616.99962992126" YPOS="524.00025984252" OwnPage="0" ItemID="89055728" PTYPE="4" WIDTH="352.071866141732" HEIGHT="133.284464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L352.072 0 L352.072 133.284 L0 133.284 L0 0 Z" copath="M0 0 L352.072 0 L352.072 133.284 L0 133.284 L0 0 Z" ImageRes="2" gXpos="616.99962992126" gYpos="524.00025984252" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="28" CH="Sommercamp 2017 der Stämme"/>
+                <breakline/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="28" CH="Bietigheim, Horb und Freudenstadt"/>
+                <trail LINESPMode="0" LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.851023622047" YPOS="1148.49600787402" OwnPage="1" ItemID="135180528" PTYPE="4" WIDTH="335" HEIGHT="99.2214724409446" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L335 0 L335 99.2215 L0 99.2215 L0 0 Z" copath="M0 0 L335 0 L335 99.2215 L0 99.2215 L0 0 Z" ImageRes="2" gXpos="136.851023622047" gYpos="1148.49600787402" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="21" CH="Dieses Heft gehört:"/>
+                <para/>
+                <para/>
+                <ITEXT CH="______________________________________________________________"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="573.386456692913" YPOS="709.134803149606" OwnPage="2" ItemID="135183376" PTYPE="4" WIDTH="362.834645669291" HEIGHT="538.582677165354" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 538.583 L0 538.583 L0 0 Z" copath="M0 0 L362.835 0 L362.835 538.583 L0 538.583 L0 0 Z" ImageRes="2" gXpos="573.386456692913" gYpos="56.8513385826773" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="40" CH="Inhalt"/>
+                <para LINESPMode="0"/>
+                <ITEXT CH="Teamzeit"/>
+                <tab/>
+                <ITEXT CH="4"/>
+                <para PARENT="Inhaltsverzeichnis 1"/>
+                <ITEXT CH="Sonntag, 30. Juli: Versorgung"/>
+                <tab/>
+                <ITEXT CH="4"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Montag, 31. Juli: Vertrauen"/>
+                <tab/>
+                <ITEXT CH="6"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Dienstag, 1. August: Entscheidung"/>
+                <tab/>
+                <ITEXT CH="8"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Mittwoch, 2. August: Verzweiflung"/>
+                <tab/>
+                <ITEXT CH="10"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Donnerstag, 3. August: Verwandlung"/>
+                <tab/>
+                <ITEXT CH="12"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Freitag, 4. August: Begegnung"/>
+                <tab/>
+                <ITEXT CH="14"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Lieder"/>
+                <tab/>
+                <ITEXT CH="16"/>
+                <para PARENT="Inhaltsverzeichnis 1"/>
+                <ITEXT CH="Bärenstark"/>
+                <tab/>
+                <ITEXT CH="16"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Dancing Generation"/>
+                <tab/>
+                <ITEXT CH="16"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Denn du bist Gott"/>
+                <tab/>
+                <ITEXT CH="17"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Der Einzige"/>
+                <tab/>
+                <ITEXT CH="17"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Du begeisterst mich"/>
+                <tab/>
+                <ITEXT CH="18"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Du bist gut"/>
+                <tab/>
+                <ITEXT CH="18"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Du, du bist Gott"/>
+                <tab/>
+                <ITEXT CH="19"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Einzigartig"/>
+                <tab/>
+                <ITEXT CH="19"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Für dich, Gott"/>
+                <tab/>
+                <ITEXT CH="20"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Happy day"/>
+                <tab/>
+                <ITEXT CH="20"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Ich bin dein"/>
+                <tab/>
+                <ITEXT CH="21"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Ja zu dem Geschenk"/>
+                <tab/>
+                <ITEXT CH="21"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Jesus, du bist König"/>
+                <tab/>
+                <ITEXT CH="21"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Jesus, wir heißen dich willkommen"/>
+                <tab/>
+                <ITEXT CH="22"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Mein Erlöser lebt"/>
+                <tab/>
+                <ITEXT CH="22"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Mittelpunkt"/>
+                <tab/>
+                <ITEXT CH="23"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Nothing is impossible"/>
+                <tab/>
+                <ITEXT CH="23"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Nummer 1"/>
+                <tab/>
+                <ITEXT CH="24"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Gemeinsam"/>
+                <tab/>
+                <ITEXT CH="24"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+                <ITEXT CH="Hula hula hallelujah"/>
+                <tab/>
+                <ITEXT CH="25"/>
+                <para PARENT="Inhaltsverzeichnis 2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="1811.50393700787" OwnPage="3" ItemID="6853664" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="506.937322834646" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Versorgung"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="192.543937007874" YPOS="1776.50393700787" OwnPage="3" ItemID="6856512" PTYPE="4" WIDTH="257.96" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" copath="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" ImageRes="2" gXpos="192.543937007874" gYpos="1776.50393700787" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="20" FCOLOR="White" CH="Sonntag, 30. Juli"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="2463.78708661417" OwnPage="5" ItemID="135211808" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="506.937322834647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Vertrauen"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="192.543937007874" YPOS="2428.78708661417" OwnPage="5" ItemID="135214656" PTYPE="4" WIDTH="257.96" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" copath="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" ImageRes="2" gXpos="192.543937007874" gYpos="1776.50393700787" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="20" FCOLOR="White" CH="Montag, 31. Juli"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="3116.07023622047" OwnPage="7" ItemID="135217504" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="506.937322834647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Entscheidung"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="192.543937007874" YPOS="3081.07023622047" OwnPage="7" ItemID="135220352" PTYPE="4" WIDTH="257.96" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" copath="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" ImageRes="2" gXpos="192.543937007874" gYpos="1776.50393700788" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="20" FCOLOR="White" CH="Dienstag, 1. August"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="3768.35338582677" OwnPage="9" ItemID="134047088" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="506.937322834647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Verzweiflung"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="192.543937007874" YPOS="3733.35338582677" OwnPage="9" ItemID="135155632" PTYPE="4" WIDTH="257.96" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" copath="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" ImageRes="2" gXpos="192.543937007874" gYpos="1776.50393700788" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="20" FCOLOR="White" CH="Mittwoch, 2. August"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="4420.63653543307" OwnPage="11" ItemID="135158480" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="506.937322834647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Begegnung"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="192.543937007874" YPOS="4385.63653543307" OwnPage="11" ItemID="135106576" PTYPE="4" WIDTH="257.96" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" copath="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" ImageRes="2" gXpos="192.543937007874" gYpos="1776.50393700788" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="20" FCOLOR="White" CH="Donnerstag, 3. August"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="5072.91968503937" OwnPage="13" ItemID="134049936" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="506.937322834647" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Verwandlung"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="192.543937007874" YPOS="5037.91968503937" OwnPage="13" ItemID="135142128" PTYPE="4" WIDTH="257.96" HEIGHT="55" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" copath="M0 0 L257.96 0 L257.96 55 L0 55 L0 0 Z" ImageRes="2" gXpos="192.543937007874" gYpos="1776.50393700788" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="MarigoldWild MarigoldWild" FONTSIZE="20" FCOLOR="White" CH="Freitag, 4. August"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="5238.26645669291" OwnPage="15" ItemID="135161328" PTYPE="2" WIDTH="436.535433070866" HEIGHT="612.283464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="-1452.75590551181" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="bilder/campfire-2154567.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" copath="M0 0 L436.535 0 L436.535 612.283 L0 612.283 L0 0 Z" ImageRes="2" gXpos="100.00062992126" gYpos="1426.61480314961" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="145.354960629921" YPOS="5725.20283464567" OwnPage="15" ItemID="137691408" PTYPE="4" WIDTH="362.834645669291" HEIGHT="66.3559606299212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" copath="M0 0 L362.835 0 L362.835 66.356 L0 66.356 L0 0 Z" ImageRes="2" gXpos="581.890393700787" gYpos="523.945196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT FONT="Ringbearer Medium" FONTSIZE="50" FCOLOR="White" CH="Lieder"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="573.386456692913" YPOS="5275.1168503937" OwnPage="16" ItemID="137676608" PTYPE="4" WIDTH="362.834645669291" HEIGHT="538.582677165355" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.835 0 L362.835 538.583 L0 538.583 L0 0 Z" copath="M0 0 L362.835 0 L362.835 538.583 L0 538.583 L0 0 Z" ImageRes="2" gXpos="573.386456692913" gYpos="5275.1168503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Bärenstark"/>
+                <tab/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Thomas Klein"/>
+                <breakline/>
+                <ITEXT CH="© 2005 SCM Hänssler, 71087 Holzgerlingen"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 9"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Bärenstark, dubidubi"/>
+                <breakline/>
+                <ITEXT CH="Bärenstark, oh yeah!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Bärenstark bist du, mein Gott."/>
+                <breakline/>
+                <ITEXT CH="Du bist der Herr der ganzen Welt."/>
+                <breakline/>
+                <ITEXT CH="Was du tust, das ist gut."/>
+                <breakline/>
+                <ITEXT CH="Herr, du bist mein starker Held."/>
+                <breakline/>
+                <ITEXT CH="Du bist groß und du hast Macht,"/>
+                <breakline/>
+                <ITEXT CH="alles ist dir unterstellt."/>
+                <breakline/>
+                <ITEXT CH="Du bist mein Freund und du bist der,"/>
+                <breakline/>
+                <ITEXT CH="der mich in seinen Armen hält, sicher hält."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Dancing Generation"/>
+                <para PARENT="Überschrift Lieder"/>
+                <breakline/>
+                <ITEXT CH="Matt Redman"/>
+                <breakline/>
+                <ITEXT CH="© 2004 Thankyou Music | SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 18"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Your mercy taught us how to dance,"/>
+                <breakline/>
+                <ITEXT CH="to celebrate with all we have,"/>
+                <breakline/>
+                <ITEXT CH="and we'll dance to thank you for your mercy"/>
+                <breakline/>
+                <ITEXT CH="Your glory taught us how to shout."/>
+                <breakline/>
+                <ITEXT CH="We'll lift your name in all the earth,"/>
+                <breakline/>
+                <ITEXT CH="and we'll shout to the praise of your glory."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="It`s the overflow of a forgiven soul."/>
+                <breakline/>
+                <ITEXT CH="And now we've seen you, God. Our hearts cannot stay silent."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="And we'll be a dancing generation."/>
+                <breakline/>
+                <ITEXT CH="Dancing, because of your great mercy, Lord,"/>
+                <breakline/>
+                <ITEXT CH="your great mercy, Lord,"/>
+                <breakline/>
+                <ITEXT CH="and we'll be a shouting generation."/>
+                <breakline/>
+                <ITEXT CH="Shouting, because of your great glory, Lord,"/>
+                <breakline/>
+                <ITEXT CH="your great glory, Lord."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="5918.89606299212" OwnPage="17" ItemID="137673648" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Denn du bist Gott"/>
+                <tab/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Marty Sampson | Sabrina Hoppe"/>
+                <breakline/>
+                <ITEXT CH="© 2006 Hillsong Music Publishing | CopyCare Deutschland"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 24"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <para/>
+                <ITEXT CH="Ich steh hier ganz nah bei dir,"/>
+                <breakline/>
+                <ITEXT CH="denk an all das Gute, was du tust."/>
+                <breakline/>
+                <ITEXT CH="Nur auf dich warte ich,"/>
+                <breakline/>
+                <ITEXT CH="will auf deine sanfte Stimme hör'n."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Heilig, ewig und gerecht bist du. "/>
+                <breakline/>
+                <ITEXT CH="Retter, Heiland, Erlöser und Freund."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Herr, ich preise dich, denn du bist Gott."/>
+                <breakline/>
+                <ITEXT CH="Herr, ich preise dich, denn du bist Gott."/>
+                <breakline/>
+                <ITEXT CH="Herr, ich preise dich, denn du bist Gott – Jesus."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du gibst mir Schutz und hältst dein Wort. Für "/>
+                <breakline/>
+                <ITEXT CH="immer liebst du mich."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Der Einzige"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Mia Friesen | Stefan Schöpfle"/>
+                <breakline/>
+                <ITEXT CH="© 2010 Outbreakband Musik | Gerth Medien Musikverlag"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 25"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Heilig bist du, Herr. Du bist heilig, Herr. Du sitzt auf dem Thron."/>
+                <breakline/>
+                <ITEXT CH="Zu deinen Füßen fühl ich mich wohl, kniend vor deinem Thron."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Staunen singe ich zu dir: Du bist heilig."/>
+                <breakline/>
+                <ITEXT CH="Deine Herrlichkeit strahlt so schön."/>
+                <breakline/>
+                <ITEXT CH="Mein Blick hebt sich zu dir und sieht: Du bist heilig."/>
+                <breakline/>
+                <ITEXT CH="Deine Schönheit wird nie vergehn."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Würdig bist du, Herr. Du bist würdig, Herr."/>
+                <breakline/>
+                <ITEXT CH="Du sitzt auf den Thron."/>
+                <breakline/>
+                <ITEXT CH="Für alle Zeiten bleibst du mein Gott,"/>
+                <breakline/>
+                <ITEXT CH="herrschend auf deinem Thron."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du bist der Einzige, dem dieses Lob gebührt. Heilig bist du."/>
+                <breakline/>
+                <ITEXT CH="Du bist der Einzige, dem dieses Lob gebührt. Heilig bist du."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="564.882519685039" YPOS="5918.89606299212" OwnPage="18" ItemID="137682528" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Du begeisterst mich"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Brenton Brown | Brian Doerksen | Daniel Jacobi"/>
+                <breakline/>
+                <ITEXT CH="© 2000 Vineyard Songs (UK/Eire) | Gerth Medien Musikverlag"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch, Nr. 33"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Deine Liebe trägt mich, festigt und erhebt mich,"/>
+                <breakline/>
+                <ITEXT CH="sie ist wie ein Felsen, auf dem ich sicher steh."/>
+                <breakline/>
+                <ITEXT CH="Deine Liebe stärkt mich, sie ist sanft und zärtlich."/>
+                <breakline/>
+                <ITEXT CH="Ich kann es kaum fassen: Sie wird nicht vergehn."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Hallelujah, hallelujah, hallelujah, du begeisterst mich  (2x)"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Deine Liebe spür ich. Du bist immer für mich."/>
+                <breakline/>
+                <ITEXT CH="Ich bin überglücklich. Du hast mich berührt."/>
+                <breakline/>
+                <ITEXT CH="Ich liebe deine Nähe, und wenn ich dich sehe,"/>
+                <breakline/>
+                <ITEXT CH="singe ich das Lied des Himmels, dass es jeder hört."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du bist gut"/>
+                <tab/>
+                <para PARENT="Überschrift Lieder"/>
+                <breakline/>
+                <ITEXT CH="Anette Sorge | Brian Johnson | Jeremy Riddle"/>
+                <breakline/>
+                <ITEXT CH="© 2010 Mercy | Vineyard Publishing | Gerth Medien Musikverlag"/>
+                <breakline/>
+                <ITEXT CH="Bethel Music Publishing | Small Stone Media Germany GmbH"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 37"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Die ganze Welt soll hörn, wie gut du zu uns bist,"/>
+                <breakline/>
+                <ITEXT CH="wie groß und grenzenlos doch deine Gnade ist."/>
+                <breakline/>
+                <ITEXT CH="Du machst mein Leben reich, mit Liebe füllst du mich."/>
+                <breakline/>
+                <ITEXT CH="Ich kann nur staunen, Herr."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Und ich singe, denn du bist gut . Und ich tanze, denn du bist gut."/>
+                <breakline/>
+                <ITEXT CH="Und ich rufe laut, du bist gut: Du bist gut zu mir (zu mir)."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Nichts kommt dir jemals gleich. Niemand ist so wie du."/>
+                <breakline/>
+                <ITEXT CH="Der Himmel und das Meer rufen dir jubelnd zu."/>
+                <breakline/>
+                <ITEXT CH="In meiner tiefsten Nacht strahlst du als helles Licht."/>
+                <breakline/>
+                <ITEXT CH="Ich kann nur staunen, Herr."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Das ist mein Herzensschrei. Alle solln es hörn."/>
+                <breakline/>
+                <ITEXT CH="Du bist gut. Du bist gut, "/>
+                <breakline/>
+                <ITEXT CH="ob die Sonne scheint, oder Regen fällt."/>
+                <breakline/>
+                <ITEXT CH="Du bist gut. Du bist gut."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614174" YPOS="6571.17921259842" OwnPage="19" ItemID="137703248" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Du, du bist Gott"/>
+                <tab/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Christoph Bräuchle | Philip Ngoei | Walker Beach"/>
+                <breakline/>
+                <ITEXT CH="© 2003 Gateway Create Publishing | SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 42"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Hier bin ich, um dich zu finden,"/>
+                <breakline/>
+                <ITEXT CH="denn du schenkst mir Gnade, Herr."/>
+                <breakline/>
+                <ITEXT CH="Anbetung soll mein Opfer sein, erhoben bist nur du allein."/>
+                <breakline/>
+                <ITEXT CH="Ich kann nicht anders, als dich zu verehrn, verehrn."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du, du bist Gott, du bist Herr. Mein ganzen Leben geb ich dir."/>
+                <breakline/>
+                <ITEXT CH="Du regierst in Ewigkeit, ich will dich immer preisen, Herr."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Hier bin ich, um dir zu danken."/>
+                <breakline/>
+                <ITEXT CH="Du hast mich verändert, Herr."/>
+                <breakline/>
+                <ITEXT CH="Weil du dein Leben für mich gabst,"/>
+                <breakline/>
+                <ITEXT CH="am Kreuz für meine Sünden starbst,"/>
+                <breakline/>
+                <ITEXT CH="ich kann nicht anders, als dich zu verehrn, verehrn."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Einzigartig"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Anneke Reinecker"/>
+                <breakline/>
+                <ITEXT CH="© 2005 Glaubenszentrum Music | Glaubenszentrum e.V."/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 43"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Einzigartig, unvergleichlich,"/>
+                <breakline/>
+                <ITEXT CH="unbegreiflich, wunderschön bist du, o Gott."/>
+                <breakline/>
+                <ITEXT CH="Gnädig und barmherzig, treu,"/>
+                <breakline/>
+                <ITEXT CH="geduldig, stark und liebevoll bist du, o Gott."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Ich preise deine Herrlichkeit"/>
+                <breakline/>
+                <ITEXT CH="jetzt und in alle Ewigkeit, o Gott, starker König."/>
+                <breakline/>
+                <ITEXT CH="Wie könnt ich nicht im Lobpreis stehn,"/>
+                <breakline/>
+                <ITEXT CH="anbetend auf die Knie gehen, angesichts deines Wesens?"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Dein Kommen, Herr, ist nicht mehr weit."/>
+                <breakline/>
+                <ITEXT CH="Wir sehnen jenen Tag herbei,"/>
+                <breakline/>
+                <ITEXT CH="Tanzen und Lachen, Jubelschrei, wenn du kommst,"/>
+                <breakline/>
+                <ITEXT CH="und wir dein Angesicht sehen."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="564.88251968504" YPOS="6571.17921259842" OwnPage="20" ItemID="134160992" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Für dich, Gott"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Ian Smale | Phil Nelson"/>
+                <breakline/>
+                <ITEXT CH="© 1981 Thankyou Music | Verwaltet von SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 53"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Wooh wooh wooh 3x"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du bist groß, größer als die Berge!"/>
+                <breakline/>
+                <ITEXT CH="Du bis schlau, schlauer als Gelehrte!"/>
+                <breakline/>
+                <ITEXT CH="Du bist hier! Mein Lob gehört nur dir!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du bist schnell, schneller als die Feuerwehr!"/>
+                <breakline/>
+                <ITEXT CH="Du bist stark, stärker als das größte Heer!"/>
+                <breakline/>
+                <ITEXT CH="Du bist hier! Mein Lob gehört nur dir!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Es ist noch lange nicht vorbei,"/>
+                <breakline/>
+                <ITEXT CH="wir nehmen uns jetzt mal die Zeit"/>
+                <breakline/>
+                <ITEXT CH="und singen für dich, Gott!"/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Happy Day"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Ben Cantelon | Tim Hughes"/>
+                <breakline/>
+                <ITEXT CH="© 2006 Thankyou Music | SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 69"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="The greatest day in history: Death is beaten, You have rescued me."/>
+                <breakline/>
+                <ITEXT CH="Sing it out: „Jesus is alive!“"/>
+                <breakline/>
+                <ITEXT CH="The empty cross, the empty grave. Life eternal you have won the day."/>
+                <breakline/>
+                <ITEXT CH="Shout it out: „Jesus is alive! He's alive!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="And oh, happy day, happy day, you washed my sin away."/>
+                <breakline/>
+                <ITEXT CH="Oh happy day, happy day, I'll never be the same."/>
+                <breakline/>
+                <ITEXT CH="Forever I am changed."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="When I stand in that place, free at last, meeting face to face,"/>
+                <breakline/>
+                <ITEXT CH="I am yours, Jesus. You are mine."/>
+                <breakline/>
+                <ITEXT CH="Endless joy, perfect peace, earthly pain finally will cease."/>
+                <breakline/>
+                <ITEXT CH="Celebrate Jesus is alive. He's alive!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Oh, what a glorious day, what a glorious way that you have saved me."/>
+                <breakline/>
+                <ITEXT CH="And oh, what a glorious day, what a glorious name, yeah."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="7223.46236220472" OwnPage="21" ItemID="134155072" PTYPE="4" WIDTH="371.338582677165" HEIGHT="554.037637795277" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L371.339 0 L371.339 554.038 L0 554.038 L0 0 Z" copath="M0 0 L371.339 0 L371.339 554.038 L0 554.038 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Ich bin dein"/>
+                <para PARENT="Überschrift Lieder"/>
+                <breakline/>
+                <ITEXT CH="Andy Polinski | Mia Friesen"/>
+                <breakline/>
+                <ITEXT CH="© 2012 Outbreakband Musik | Gerth Medien Musikverlag"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 85"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Ich komm zu dir, vor deinen Thron. Voll Demut will ich vor dir stehn."/>
+                <breakline/>
+                <ITEXT CH="Ich genieße deine Gegenwart."/>
+                <breakline/>
+                <ITEXT CH="Ich will dein treuer Diener sein und nur auf deinen Wegen gehen."/>
+                <breakline/>
+                <ITEXT CH="Nichts hält mich von deiner Liebe fern."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Öffne meine Augen, lass mich sehn."/>
+                <breakline/>
+                <ITEXT CH="Öffne du mein Herz und lass mich spürn,"/>
+                <breakline/>
+                <ITEXT CH="was du fühlst, Herr, was du fühlst, Herr."/>
+                <breakline/>
+                <ITEXT CH="Zieh mich immer näher zu dir hin,"/>
+                <breakline/>
+                <ITEXT CH="Deine Liebe zeigt mir, wer ich bin."/>
+                <breakline/>
+                <ITEXT CH="Ich bin dein, Herr, ich bin dein, Herr."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du und ich sind unzertrennlich bis in alle Ewigkeit."/>
+                <breakline/>
+                <ITEXT CH="Erst durch dich bin ich lebendig und von aller Schuld befreit!"/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Ja zu dem Geschenk"/>
+                <para PARENT="Überschrift Lieder"/>
+                <breakline/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 103"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Ich sag ja zu dem Geschenk, dass du für mich starbst am Kreuz,"/>
+                <breakline/>
+                <ITEXT CH="und ich liebe dich dafür. Ich liebe dich! (2x)"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Ich sag zu dir: „Komm in mein Herz. "/>
+                <breakline/>
+                <ITEXT CH="Ich öffne die Tür. Komm leb' in mir.“"/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Jesus, du bist König"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Thomas Klein"/>
+                <breakline/>
+                <ITEXT CH="© 2005 SCM Hänssler, 71087 Holzgerlingen | SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 104"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Jesus, du bist König, König meines Herzens."/>
+                <breakline/>
+                <ITEXT CH="Ich erhebe dich, ich erhebe dich.     (2x)"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Ich erhebe dich, über alles, was ich denke."/>
+                <breakline/>
+                <ITEXT CH="Ich erhebe dich, über alles, was ich fühl."/>
+                <breakline/>
+                <ITEXT CH="Ich erhebe dich, über alles, was ich tue. Jesus, regiere du in mir."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="564.882519685039" YPOS="7223.46236220472" OwnPage="22" ItemID="134169872" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Jesus, wir heissen dich willkommen"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Thomas Klein"/>
+                <breakline/>
+                <ITEXT CH="© 2004 SCM Hänssler, 71087 Holzgerlingen | SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 106"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Jesus, wir heißen dich willkommen."/>
+                <breakline/>
+                <ITEXT CH="Du bist in unsrer Mitte, wir wollen dir begegnen (2x)"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Wir wollen sehn, wie du wirklich bist."/>
+                <breakline/>
+                <ITEXT CH="Komm in deiner Kraft, komm in deiner Macht. (2x)"/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Mein Erlöser lebt"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Daniel Jacobi | Reuben Morgan | Tabea Higgins"/>
+                <breakline/>
+                <ITEXT CH="© 1998 Hillsong Music Publishing | CopyCare Deutschland"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 120"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Ich weiß, er hat mich befreit."/>
+                <breakline/>
+                <ITEXT CH="Sein Blut bedeckt meine Schuld."/>
+                <breakline/>
+                <ITEXT CH="Ja, ich weiß; ja, ich weiß."/>
+                <breakline/>
+                <ITEXT CH="Er nahm die Schande auf sich."/>
+                <breakline/>
+                <ITEXT CH="Von Schmerzen heilte er mich."/>
+                <breakline/>
+                <ITEXT CH="Ja, ich weiß; ja, ich weiß."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Lasst alle hören oooh: Mein Herr besiegte das Grab!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Mein Erlöser lebt, mein Erlöser lebt!  2x"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Du nimmst die Last mir. Ich steh auf mit dir."/>
+                <breakline/>
+                <ITEXT CH="Ich laufe dir entgegen, Herr, und sehe: Dein Reich kommt."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="7875.74551181102" OwnPage="23" ItemID="134163952" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Mittelpunkt"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Juri Friesen | Pala Friesen"/>
+                <breakline/>
+                <ITEXT CH="© 2012 Outbreakband Musik | Gerth Medien Musikverlag"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: 124"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Königlich strahlt dein Licht."/>
+                <breakline/>
+                <ITEXT CH="Du bist ewiglich, niemand kommt dir gleich."/>
+                <breakline/>
+                <ITEXT CH="Sanftmütig führst du mich hin zu deinem Licht."/>
+                <breakline/>
+                <ITEXT CH="Ich darf bei dir sein."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Sei du der Mittelpunkt in meinem Leben,"/>
+                <breakline/>
+                <ITEXT CH="der Mittelpunkt in meinem Herzen. Ich gehöre dir."/>
+                <breakline/>
+                <ITEXT CH="Sei du der Mittelpunkt in meiner Schwäche,"/>
+                <breakline/>
+                <ITEXT CH="der Mittelpunkt in meiner Stärke. Ich gehöre dir."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Ich will dir nah sein. Ich werd dir folgen"/>
+                <breakline/>
+                <ITEXT CH="Mein ganzes Leben in dir verliern."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Nothing is Impossible"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Joth Hunt"/>
+                <breakline/>
+                <ITEXT CH="© 2008 Integrity Worship Music | Planetshakers Ministries Int. Inc. | SCM-Verlag GmbH &amp; Co. KG"/>
+                <breakline/>
+                <ITEXT CH="Liederbuch: Nr. 131"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Through you, I can do anything. I can do all things,"/>
+                <breakline/>
+                <ITEXT CH="cause it's you who gives me strength. Nothing is impossible."/>
+                <breakline/>
+                <ITEXT CH="Through you, blind eyes are open, strongholds are broken."/>
+                <breakline/>
+                <ITEXT CH="I am living by faith. Nothing is impossible."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="I'm not gonna live by what I see. I'm not gonna live by what I feel."/>
+                <breakline/>
+                <ITEXT CH="Deep down, I know that you're here with me,"/>
+                <breakline/>
+                <ITEXT CH="and I know that you can do anything."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="I believe, I believe. I believe, I believe in you.   (2x)"/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="564.882519685039" YPOS="7875.74551181102" OwnPage="24" ItemID="134181712" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Nummer 1"/>
+                <para PARENT="Überschrift Lieder"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Nummer, Nummer, Nummer eins"/>
+                <breakline/>
+                <ITEXT CH="Nummer, Nummer, Nummer, Nummer eins"/>
+                <breakline/>
+                <ITEXT CH="Nummer, Nummer, Nummer, Nummer eins bist du!  (2x)"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Wir feiern dich Jesus, du bist hier, wir dancen voll ab mit dir."/>
+                <breakline/>
+                <ITEXT CH="Wir sing'n ein Hip Hurra für dich, ein Heyohey, alles okay"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Rap: "/>
+                <tab/>
+                <ITEXT CH="Du bist die Nummer 1, du bist, du bist in meinem Leben."/>
+                <breakline/>
+                <tab/>
+                <ITEXT CH="Ich will dir alles geben. Du bist hier in unsrer Mitte  bei mir."/>
+                <breakline/>
+                <tab/>
+                <ITEXT CH="Meine Hände streck ich aus zu dir und sag ich liebe dich."/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Gemeinsam"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH=" "/>
+                <tab/>
+                <ITEXT CH="Liederbuch: Nr. 205"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Gemeinsam gehn wir durchs Leben, "/>
+                <breakline/>
+                <ITEXT CH="gemeinsam gehn wir durch diese Welt."/>
+                <breakline/>
+                <ITEXT CH="Die Sonne wird heller scheinen,"/>
+                <breakline/>
+                <ITEXT CH="für uns am hohen Himmelszelt."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Gemeinsam als Royal Rangers,"/>
+                <breakline/>
+                <ITEXT CH="gemeinsam gehn wir durch diese Welt;"/>
+                <breakline/>
+                <ITEXT CH="und folgen wir Jesus Christus,"/>
+                <breakline/>
+                <ITEXT CH="dann ist es gut um uns bestellt."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="Gemeinsam als gute Freunde,"/>
+                <breakline/>
+                <ITEXT CH="so wollen wir alle Zeit treu zusammenstehn."/>
+                <breakline/>
+                <ITEXT CH="Wir möchten es froh bekennen:"/>
+                <breakline/>
+                <ITEXT CH="Wir wolln den Weg mit Jesus gehn!"/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="8528.02866141732" OwnPage="25" ItemID="134172832" PTYPE="4" WIDTH="379.842519685039" HEIGHT="555.590551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" copath="M0 0 L379.843 0 L379.843 555.591 L0 555.591 L0 0 Z" ImageRes="2" gXpos="564.882519685039" gYpos="5266.61291338583" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Hula hula hallelujah"/>
+                <para PARENT="Überschrift Lieder"/>
+                <ITEXT CH="Liederbuch: Nr. 210"/>
+                <para PARENT="Kleingedrucktes Lieder"/>
+                <ITEXT CH="Clap your hands hallelujah!"/>
+                <breakline/>
+                <ITEXT CH="Clap your hands hallelujah!"/>
+                <breakline/>
+                <ITEXT CH="Clap your hands hallelujah!"/>
+                <breakline/>
+                <ITEXT CH="In the name of the Lord!"/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="2. Stamp your feet..."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="3. Jump for joy..."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="4. Shout for joy..."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="5. Shake your body..."/>
+                <para PARENT="Liedtext"/>
+                <ITEXT CH="6. Hula, hula..."/>
+                <para PARENT="Liedtext"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
